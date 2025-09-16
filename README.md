@@ -21,4 +21,7 @@ This project demonstrates React fundamentals such as **components, props, state 
 
 ---
 
-## 📂 Project Structure
+## 📸 Screenshots
+
+![App Screenshot](Screenshot/SS.png)
+
